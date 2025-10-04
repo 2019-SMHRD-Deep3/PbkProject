@@ -10,7 +10,7 @@ public class MemberController {
 	@RequestMapping("/test")
 	public @ResponseBody String test(){
 		//test test test
-		return "hello Git";
+		return "hello Git test";
 	}
 	
 	
